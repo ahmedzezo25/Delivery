@@ -287,7 +287,7 @@ ul {
 
     }
 }
-@media (max-width: 768px) {
+@media (max-width: 991px) {
     .img img {
         display: none;
         
@@ -543,7 +543,7 @@ ul {
       
     }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .foot {
         padding-top: 396px;
     }
